@@ -39,6 +39,11 @@ https://dumps.tadiphone.dev/dumps/doogee/x90/-/raw/full_k80hd_bsp_fwv_512m-user-
 + **Create a new folder on your device and put the GeneratePIF.sh, build.prop and vendor-build.prop on a single folder. Once it's done tap execute script and will automatically replace your pif.json on /data/adb/modules/playintegrityfix/pif.json**
 
 + **Script usage and PlayIntegrityCheck**
++ -GeneratePIF.zip
 ![](https://github.com/x1337cn/GeneratePIF/blob/main/screen-20240119-093127-ezgif.com-video-to-gif-converter%20(1).gif)
+
+
++ -GeneratePIF Fingerprint 2.zip
+![](https://github.com/x1337cn/GeneratePIF/blob/main/screen-20240119-155758-ezgif.com-video-to-gif-converter.gif)
 
 + **Contact me on Telegram @x1337cn01** 
