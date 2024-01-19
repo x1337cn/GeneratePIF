@@ -11,6 +11,12 @@
 
 + **GeneratePIF Fingerprint 2.zip** (with working fingerprint GeneratePIF.sh, build.prop and vendor-build.prop) [Download it HERE](https://github.com/x1337cn/GeneratePIF/releases/download/v0.1/GeneratePIF.Fingerprint.2.zip)
 
++ **For Magisk Users / Kitsune / Alpha you should enable zygisk on settings**
+
++ **For APatch users Download and Flash ZygiskNEXT Module** [Download it HERE](https://github.com/Yervant7/ZygiskNext/releases/download/v4-0.9.4-285/Zygisk-Next-v4-0.9.4-285-release.zip)
+
++ **For KernelSU users Download and Flash ZygiskNEXT Module** [Download it HERE](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v4-0.9.1.1/Zygisk-Next-v4-0.9.1.1-189-release.zip)
+
 ### What is the purpose of this script? :
 + **This script automatically generate pif.json from target or build.prop and vendor-build.prop from  https://dumps.tadiphone.dev/dumps** 
 
@@ -77,5 +83,7 @@ https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.
 
 + **Credits and special thanks to chiteroman and osm0sis**
   
-+ **Contact me on Telegram @x1337cn01**
++ **Contact me on Telegram @x1337cn01** 
 + **Join on our Telegram Group For More Updates** https://t.me/AutoPIFNEXT
++ **Support and Donate me on this project** 
+https://www.buymeacoffee.com/x1337cn
