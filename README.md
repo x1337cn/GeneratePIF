@@ -40,8 +40,7 @@ https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.
 + **Create a new folder on your device and put the GeneratePIF.sh, build.prop and vendor-build.prop on a single folder. Once it's done tap execute script and will automatically replace your pif.json on /data/adb/modules/playintegrityfix/pif.json**
 
 ### Script usage and PlayIntegrityCheck
-+ **GeneratePIF.zip**
-+ Doogee X90 Custom PIF
++ **GeneratePIF.zip** - Doogee X90 Custom PIF
 ```bash
 {
   "MANUFACTURER": "DOOGEE",
@@ -56,8 +55,7 @@ https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.
 ```
 ![](https://github.com/x1337cn/GeneratePIF/blob/main/screen-20240119-093127-ezgif.com-video-to-gif-converter%20(1).gif)
 
-+ **GeneratePIF Fingerprint 2.zip**
-+ ZTE Z6530V Custom PIF
++ **GeneratePIF Fingerprint 2.zip** - ZTE Z6530V Custom PIF
 ```bash
 {
   "MANUFACTURER": "ZTE",
