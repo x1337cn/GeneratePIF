@@ -78,4 +78,4 @@ https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.
 + **Credits and special thanks to chiteroman and osm0sis**
   
 + **Contact me on Telegram @x1337cn01**
-+ **Join on our Telegram Group For More Updates** https://t.me/+Pv7cy9KJNvI0N2E1
++ **Join on our Telegram Group For More Updates** https://t.me/AutoPIFNEXT
