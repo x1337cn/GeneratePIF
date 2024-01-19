@@ -18,7 +18,7 @@
 + **build.prop is located on /system/build.prop**
   
 + **Sample working build.prop**
-https://dumps.tadiphone.dev/dumps/doogee/x90/-/raw/full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1558923087-release-keys/vendor/build.prop?ref_type=heads&inline=false
+https://dumps.tadiphone.dev/dumps/doogee/x90/-/raw/full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1558923087-release-keys/system/build.prop?ref_type=heads&inline=false
 
 + **vendor-build.prop is located on /vendor/build.prop (rename to vendor-build.prop)**
 
