@@ -25,16 +25,13 @@ https://dumps.tadiphone.dev/dumps/doogee/x90/-/raw/full_k80hd_bsp_fwv_512m-user-
 + **Another sample working build.prop**
 https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.180610.011-126-release-keys/system/system/build.prop?ref_type=heads&inline=false
 
-
 + **vendor-build.prop is located on /vendor/build.prop (rename to vendor-build.prop)**
-https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.180610.011-126-release-keys/vendor/build.prop?ref_type=heads&inline=false
-
 
 + **Sample working vendor-build.prop**
 https://dumps.tadiphone.dev/dumps/doogee/x90/-/raw/full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1558923087-release-keys/vendor/build.prop?ref_type=heads&inline=false
 
 + **Another sample working vendor-build.prop**
-
+https://dumps.tadiphone.dev/dumps/zte/z6530/-/raw/full_k71v1_64_bsp-user-9-PPR1.180610.011-126-release-keys/vendor/build.prop?ref_type=heads&inline=false
 
 + **Create a new folder on your device and put the GeneratePIF.sh, build.prop and vendor-build.prop on a single folder. Once it's done tap execute script and will automatically replace your pif.json on /data/adb/modules/playintegrityfix/pif.json**
 
